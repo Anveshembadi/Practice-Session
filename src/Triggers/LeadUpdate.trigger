@@ -1,3 +1,4 @@
-trigger LeadUpdate on Lead (before insert) {
+trigger LeadUpdate on Lead (before update) {
+   
 
 }
