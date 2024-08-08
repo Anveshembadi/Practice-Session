@@ -1,9 +1,10 @@
-/* If an Account is with Industry Agriculture and Type 'Prospect' is updated and 
-ownership is set to private donot allow user to set this ownership */
-
-trigger AccountTrigger on Account (before update) {
+trigger AccountTrigger on Account (before update ,after update) {
     if(Trigger.isUpdate && Trigger.isBefore){
         AccountTriggerHandler.handleActivitiesBeforeUpdate(Trigger.NEW, Trigger.oldMap);
+    }
+    
+    if(Trigger.isUpdate && Trigger.isAfter){
+        AccountTriggerHandler.handleActivitiesAfterUpdate(Trigger.NEW, Trigger.oldMap);
     }
 
 }
