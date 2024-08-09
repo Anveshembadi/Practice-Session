@@ -19,16 +19,20 @@ public class ContactTriggerHandler {
         List<Id> accountIdsToInform = new List<Id>();
         for(Contact con : newRec){
             if(con.AccountId != null){
+                System.debug('con.Email='+con.Email+', old email='+oldRec.get(con.Id).Email);
+                System.debug('con.Phone='+con.Phone+', old Phone='+oldRec.get(con.Id).Phone);
                 if(con.Email != oldRec.get(con.Id).Email || con.Phone != oldRec.get(con.Id).Phone){
                     accountIdsToInform.add(con.AccountId);
                 }
             }
         }
+        System.debug('accountIdsToInform='+accountIdsToInform);
         List<String> emailAddressList = new List<String>();
         List<Account> accountRecords = [SELECT OwnerID, Owner.Email FROM Account WHERE Id IN : accountIdsToInform];
         for(Account acc : accountRecords){
             emailAddressList.add(acc.Owner.Email);
         }
+        System.debug('emailAddressList='+emailAddressList);
         if(!emailAddressList.isEmpty()){
             
             Messaging.SingleEmailMessage[] messages = new List<Messaging.SingleEmailMessage>();
@@ -41,7 +45,7 @@ public class ContactTriggerHandler {
             messages.add(message);
             
             }
-            Messaging.SendEmailResult[] results = Messaging.sendEmail(messages);
+             Messaging.SendEmailResult[] results = Messaging.sendEmail(messages);
             
         }
     }
