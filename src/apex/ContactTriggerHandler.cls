@@ -29,7 +29,7 @@ public class ContactTriggerHandler {
         for(Account acc : accountRecords){
             emailAddressList.add(acc.Owner.Email);
         }
-        if(!accountIdsToInform.isEmpty()){
+        if(!emailAddressList.isEmpty()){
             
             Messaging.SingleEmailMessage[] messages = new List<Messaging.SingleEmailMessage>();
             for(Id accId : accountIdsToInform){
@@ -41,7 +41,7 @@ public class ContactTriggerHandler {
             messages.add(message);
             
             }
-             Messaging.SendEmailResult[] results = Messaging.sendEmail(messages);
+            Messaging.SendEmailResult[] results = Messaging.sendEmail(messages);
             
         }
     }
