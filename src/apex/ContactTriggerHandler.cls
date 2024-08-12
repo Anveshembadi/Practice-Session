@@ -49,4 +49,16 @@ public class ContactTriggerHandler {
             
         }
     }
+    
+    public static void updateContactFeild(Id contactId){
+        if(contactId != null){
+            List<Contact> contactListToUpdate = [SELECT Id, Title, Department FROM Contact WHERE Id = :ContactId];
+            if(contactListToUpdate[0].Title == 'CFO'){
+                contactListToUpdate[0].Department='Industrialist';
+            }
+            update contactListToUpdate;
+        }
+    }
+     
+    
 }

@@ -1,7 +1,7 @@
 public class OppTriggerHandler {
-    public static void handleActivitiesAfterInsert(){
-        
-    }
+    //public static void handleActivitiesAfterInsert(){
+    //    
+    //}
     
     public static void handleActivitiesBeforeUpdate(List<Opportunity> newRecords,Map<Id,Opportunity> oldMap){
         // find the record from new list, compare and find the same record in old list and then check if stage values are different are not.
@@ -21,11 +21,7 @@ public class OppTriggerHandler {
         }
       }
     
-     
-        
-        
-        
-    
+ 
     public static void handleActivitiesAfterUpdate(List<Opportunity> newRecords){
         List<Task> taskListToInsert = new List<Task>();
         for(Opportunity opp : newRecords){
@@ -79,6 +75,11 @@ public class OppTriggerHandler {
         }
     }
     
-    
-
+    public static void deleteContactRecord(String stageName){
+        List<Opportunity> oppDeleteList = [SELECT Id,StageName FROM Opportunity WHERE StageName=:stageName];
+        if(oppDeleteList.size()>0){
+            delete oppDeleteList;
+        }
+    }
+   
 }
