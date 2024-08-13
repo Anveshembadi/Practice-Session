@@ -59,6 +59,22 @@ public class ContactTriggerHandler {
             update contactListToUpdate;
         }
     }
+    
+    public static void createContact(String firstname, String lastname,String email){
+        List<Contact> conList = new List<Contact>();
+        Contact con = new Contact();
+        if(!String.isBlank(lastname)){
+             con.FirstName = firstname;
+        	 con.LastName = lastname;
+        	 con.Email = email;
+        	 conList.add(con);
+        
+        }
+       if(conList.size()>0){
+        insert conList;
+    }
      
+    }
+    
     
 }
