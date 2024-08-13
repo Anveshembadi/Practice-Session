@@ -54,9 +54,12 @@ public class OppTriggerHandler {
             accountIds.add(opp.AccountId);
             oppvsAccountMap.put(opp.Id, opp.AccountId);
         }
-        List<Account> accountRecords = [SELECT OwnerId FROM Account WHERE Id IN : accountIds];
+        List<Account> accountRecords = [SELECT Id, OwnerId FROM Account WHERE Id IN : accountIds];
+        System.debug('accIdvsOwnerIdMap :' + accIdvsOwnerIdMap);
         for(Account acc : accountRecords){
             accIdvsOwnerIdMap.put(acc.Id, acc.OwnerId);
+            System.debug('accIdvsOwnerIdMap :' + accIdvsOwnerIdMap);  // for checking.
+
         }
         
            List<Task> taskRecordList = new List <Task>() ;
@@ -64,22 +67,24 @@ public class OppTriggerHandler {
             Task taskRecord = new Task();
             taskRecord.Description ='Please investigate why opportunity was deleted';
             taskRecord.Priority ='High';
-            taskRecord.OwnerId = accIdvsOwnerIdMap.get(oppvsAccountMap.get(opp.Id));
+            taskRecord.OwnerId = opp.OwnerId;
             taskRecord.Status = 'Not Started';
             taskRecord.Subject = 'Follow up';
-            //taskRecord.WhatId = opp.Id;
+           // taskRecord.WhatId = opp.Id;
             taskRecordList.add(taskRecord);
+            System.debug('ownerid=' + opp.OwnerId);
         }
         if(!taskRecordList.isEmpty()){
             insert taskRecordList;
         }
     }
-    
-    public static void deleteContactRecord(String stageName){
+   public static void handleDeleteScenario(String stageName){
         List<Opportunity> oppDeleteList = [SELECT Id,StageName FROM Opportunity WHERE StageName=:stageName];
         if(oppDeleteList.size()>0){
             delete oppDeleteList;
         }
     }
+
+    
    
 }
