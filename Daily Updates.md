@@ -160,3 +160,4 @@
 
 ## 10/09/2024
 1. Worked on Trailhead (Platform Developer - Intermediate, Platform API Basics - Use Pub/Sub API; Lightning Web Components for Visualforce Developers).
+2. Learnt how to work on Logicapps.(Explained By Shiva.)
