@@ -159,11 +159,11 @@
 2. Worked on Trailhead (Lightning Web Components and Salesforce Data; Platform API Basics - Use SOAP API).
 
 ## 10/09/2024
-1. Worked on Trailhead (Platform Developer - Intermediate, Platform API Basics - Use Pub/Sub API; Lightning Web Components for Visualforce Developers).
-2. Learnt how to work on Logicapps [UserStory: 6613 - Update Draw Location] .(Explained By Shiva.)
+1. Worked on Trailhead  (Platform Developer - Intermediate, Platform API Basics - Use Pub/Sub API; Lightning Web Components for Visualforce Developers).
+2. Learnt how to work on Logicapps on project: Tampa Bay. [UserStory: 6613 - Update Draw Location] .(Explained By Shiva.)
    
 ## 11/09/2024
-1. Learnt how to work on Logicapps [UserStory: 6660 Update Mapping for Signature Date/Time ]
+1. Learnt how to work on Logicapps on project: Tampa Bay. [UserStory: 6660 Update Mapping for Signature Date/Time ]
                                    [UserStory: 6658 Update Patient Insurance Mapping for Integrations]
 2. Worked on Traihead (Apply Visualforce Skills to Lightning Components Quick Start: Explore the Visualforce to LWC Sample App ; Explore the Visualforce to LWC Sample App).
-3. 
+3. Worked on Traihead (Apex Integration Services- Apex REST Callouts)
