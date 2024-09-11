@@ -165,4 +165,5 @@
 ## 11/09/2024
 1. Learnt how to work on Logicapps [UserStory: 6660 Update Mapping for Signature Date/Time ]
                                    [UserStory: 6658 Update Patient Insurance Mapping for Integrations]
-2.  
+2. Worked on Traihead (Apply Visualforce Skills to Lightning Components Quick Start: Explore the Visualforce to LWC Sample App ; Explore the Visualforce to LWC Sample App).
+3. 
