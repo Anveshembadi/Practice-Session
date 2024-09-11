@@ -160,4 +160,9 @@
 
 ## 10/09/2024
 1. Worked on Trailhead (Platform Developer - Intermediate, Platform API Basics - Use Pub/Sub API; Lightning Web Components for Visualforce Developers).
-2. Learnt how to work on Logicapps.(Explained By Shiva.)
+2. Learnt how to work on Logicapps [UserStory: 6613 - Update Draw Location] .(Explained By Shiva.)
+   
+## 11/09/2024
+1. Learnt how to work on Logicapps [UserStory: 6660 Update Mapping for Signature Date/Time ]
+                                   [UserStory: 6658 Update Patient Insurance Mapping for Integrations]
+2.  
