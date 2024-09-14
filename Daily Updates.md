@@ -172,4 +172,4 @@
 ## 13/09/2024
 1. Worked on Trailhead (Platform Developer Advanced Asynchronous Apex- Asynchronous Processing Basics; Use Future Methods; Use Batch Apex)
 ## 14/09/2024
-1. Worked on Trailhead (Asynchronous Apex-Schedule Jobs Using the Apex Scheduler; Schedule Jobs Using the Apex Scheduler)
+1. Worked on Trailhead (Asynchronous Apex-Schedule Jobs Using the Apex Scheduler; Schedule Jobs Using the Apex Scheduler; Monitor Asynchronous Apex)
