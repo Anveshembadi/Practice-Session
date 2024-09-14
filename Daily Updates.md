@@ -171,4 +171,5 @@
 1. Worked on Trailhead  (Platform Developer Advanced  Apex Integration Services- Apex REST Callouts; Apex Web Services)
 ## 13/09/2024
 1. Worked on Trailhead (Platform Developer Advanced Asynchronous Apex- Asynchronous Processing Basics; Use Future Methods; Use Batch Apex)
-   
+## 14/09/2024
+1. Worked on Trailhead (Asynchronous Apex-Schedule Jobs Using the Apex Scheduler;)
