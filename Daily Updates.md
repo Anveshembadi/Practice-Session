@@ -173,4 +173,4 @@
 1. Worked on Trailhead (Platform Developer Advanced Asynchronous Apex- Asynchronous Processing Basics; Use Future Methods; Use Batch Apex)
 ## 14/09/2024
 1. Worked on Trailhead (Asynchronous Apex-Schedule Jobs Using the Apex Scheduler; Schedule Jobs Using the Apex Scheduler; Monitor Asynchronous Apex)
-2. Worked on Trailhead (Lightning Web Component Troubleshooting- Get Ready to Troubleshoot; Monitor JavaScript Execution)
+2. Worked on Trailhead (Lightning Web Component Troubleshooting- Get Ready to Troubleshoot; Use Breakpoints; Monitor JavaScript Execution)
