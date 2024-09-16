@@ -176,4 +176,4 @@
 2. Worked on Trailhead (Lightning Web Component Troubleshooting- Get Ready to Troubleshoot; Use Breakpoints; Monitor JavaScript Execution)
 
 ## 16/09/2024
-1.Worked on Trailhead(Lightning Web Components Tests- Get Started with Testing; Set Up Jest Testing Framework;)
+1.Worked on Trailhead(Lightning Web Components Tests- Get Started with Testing; Set Up Jest Testing Framework; Write a Jest Test; Write a Jest Test for Wire Service;Mock Other Components )
