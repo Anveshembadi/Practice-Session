@@ -174,3 +174,6 @@
 ## 14/09/2024
 1. Worked on Trailhead (Asynchronous Apex-Schedule Jobs Using the Apex Scheduler; Schedule Jobs Using the Apex Scheduler; Monitor Asynchronous Apex)
 2. Worked on Trailhead (Lightning Web Component Troubleshooting- Get Ready to Troubleshoot; Use Breakpoints; Monitor JavaScript Execution)
+
+## 16/09/2024
+1.Worked on Trailhead(Lightning Web Components Tests- Get Started with Testing; Set Up Jest Testing Framework;)
