@@ -181,5 +181,8 @@
 3. Practiced hoe to create logic apps.(like how to use for loops and conditions in logic apps)
 ## 17/09/2024
 1. Worked on Trailhead(Platform Cache Basics- Get Started with Platform Cache; Use Org & Session Cache;)
-2. Learnt how to work on Logicapps on project: Tampa Bay. [UserStory: 6672 Update Pre-Treatment Object in JSON Schema.]
+2. Learnt how to work on project: Tampa Bay. [UserStory: 6672 Update Pre-Treatment Object in JSON Schema.]
+3. Worked on UserStory: 6673 (Update Portal Terms and Conditions).
+4. Worked on UserStory:6600 (Phys Portal - Create Order Procedure Update)
+5. 
 
