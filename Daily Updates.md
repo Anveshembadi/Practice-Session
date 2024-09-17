@@ -179,4 +179,7 @@
 1. Worked on Trailhead(Lightning Web Components Tests- Get Started with Testing; Set Up Jest Testing Framework; Write a Jest Test; Write a Jest Test for Wire Service;Mock Other Components )
 2. Learnt how the structure of the project and how logicapps work. (explained by Shiva)
 3. Practiced hoe to create logic apps.(like how to use for loops and conditions in logic apps)
+## 17/09/2024
+1. Worked on Trailhead(Platform Cache Basics- Get Started with Platform Cache; Use Org & Session Cache;)
+2. Learnt how to work on Logicapps on project: Tampa Bay. [UserStory: 6672 Update Pre-Treatment Object in JSON Schema.]
 
