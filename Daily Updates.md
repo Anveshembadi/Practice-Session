@@ -176,4 +176,7 @@
 2. Worked on Trailhead (Lightning Web Component Troubleshooting- Get Ready to Troubleshoot; Use Breakpoints; Monitor JavaScript Execution)
 
 ## 16/09/2024
-1.Worked on Trailhead(Lightning Web Components Tests- Get Started with Testing; Set Up Jest Testing Framework; Write a Jest Test; Write a Jest Test for Wire Service;Mock Other Components )
+1. Worked on Trailhead(Lightning Web Components Tests- Get Started with Testing; Set Up Jest Testing Framework; Write a Jest Test; Write a Jest Test for Wire Service;Mock Other Components )
+2. Learnt hoe the structure of the project and how logicapps work. (explained by Shiva)
+3. Practiced hoe to create logic apps.(like how to use for loops and conditions in logic apps)
+
