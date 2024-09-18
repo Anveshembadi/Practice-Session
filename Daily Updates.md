@@ -184,5 +184,9 @@
 2. Learnt how to work on project: Tampa Bay. [UserStory: 6672 Update Pre-Treatment Object in JSON Schema.]
 3. Worked on UserStory: 6673 (Update Portal Terms and Conditions).
 4. Worked on UserStory:6600 (Phys Portal - Create Order Procedure Update)
+
+## 18/09/2024
+1. Worked on Trailhead(Platform Cache Basics- Walk Through a Sample Application and Discover Cache Diagnostics)
+2. Worked on Trailhead (Platform Events Basics- Understand Event-Driven Software Architecture; Define and Publish Platform Events)
  
 
