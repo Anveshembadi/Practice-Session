@@ -189,5 +189,8 @@
 1. Worked on Trailhead(Platform Cache Basics- Walk Through a Sample Application and Discover Cache Diagnostics)
 2. Worked on Trailhead (Platform Events Basics- Understand Event-Driven Software Architecture; Define and Publish Platform Events;Subscribe to Platform Events)
 3. Done with KT By Shiva on basic sample logicapps how to deploy them using pipelines.
+
+## 19/09/2024
+1. Worked on Trailhead(Set Up Your Salesforce Mobile Developer Tools for Lightning Web Components; Salesforce Mobile SDK Basics- Get Started with Salesforce Mobile SDK; Understand Security and Authentication)
  
 
