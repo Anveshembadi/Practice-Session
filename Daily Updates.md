@@ -192,5 +192,6 @@
 
 ## 19/09/2024
 1. Worked on Trailhead(Set Up Your Salesforce Mobile Developer Tools for Lightning Web Components; Salesforce Mobile SDK Basics- Get Started with Salesforce Mobile SDK; Understand Security and Authentication)
- 
-
+2. Learnt how to work on project: Tampa Bay. [UserStory: 6684 Update Redox Mapping] (by shiva)
+3. Learnt about different types of sandboxes and saleforce releases.
+4. Learnt about Acccesion (explained by Ramesh).
