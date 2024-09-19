@@ -195,3 +195,4 @@
 2. Learnt how to work on project: Tampa Bay. [UserStory: 6684 Update Redox Mapping] (by shiva)
 3. Learnt about different types of sandboxes and saleforce releases.
 4. Learnt about Acccesion (explained by Ramesh).
+5. Learnt Logicapps (Foreach and do-until)
