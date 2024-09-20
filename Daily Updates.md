@@ -196,3 +196,5 @@
 3. Learnt about different types of sandboxes and saleforce releases.
 4. Learnt about Acccesion (explained by Ramesh).
 5. Learnt Logicapps (Foreach and do-until)
+## 20/09/2024
+1. Worked on Trailhead(Get Started with the Salesforce Platform; Develop Without Code; Code with Salesforce Languages; Extend the Salesforce Platform)
