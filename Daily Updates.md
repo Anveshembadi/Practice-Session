@@ -199,4 +199,4 @@
 ## 20/09/2024
 1. Worked on Trailhead(Get Started with the Salesforce Platform; Develop Without Code; Code with Salesforce Languages; Extend the Salesforce Platform)
 2. Worked on Trailhead(Secure Salesforce Configuration- Run Health Check; Protect Apps with Shield)
-3. Learnt about Logicapps (how logicapps work-steps using AccessToken logicapp.)
+3. Learnt about Logicapps KT by Shiva on creating Accesstoken logicapp. (how logicapps work-steps using AccessToken logicapp.)
