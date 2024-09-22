@@ -204,4 +204,5 @@
 ## 21/09/2024
 1. Gone through Salesforce Governor Limits.
 2. Worked on Trailhead(Secure Client-Side Development- Build Secure Apps with Lightning Web Components; Mitigate Cross-Site Scripting; Write Content Security Policy-Compatible Code)
-3. 
+3. Worked on Trailhead(Secure Server-Side Development- Write Secure Apex Controllers; Mitigate SOQL Injection; Mitigate Cross-Site Request Forgery; Mitigate Server Side Request Forgery)
+4. Worked on Trailhead(Secure Secrets Storage- Get Started with Secret Protection; Protect Secrets Using Platform Features; Use Encryption in Custom Applications)
