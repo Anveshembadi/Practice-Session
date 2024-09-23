@@ -209,3 +209,5 @@
 
 ## 23/09/2024
 1. Worked on Trailhead(Apex Integration Services- Apex SOAP Callouts; Apex Web Services)
+2. Worked on Trailhead(Experience Cloud Basics- Get Started with Experience Cloud; Engage with Your Customers; Engage with Your Partners)
+3. Have gone through some Logicapp videos.
