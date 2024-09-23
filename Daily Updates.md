@@ -212,4 +212,5 @@
 2. Worked on Trailhead(Experience Cloud Basics- Get Started with Experience Cloud; Engage with Your Customers; Engage with Your Partners)
 3. Have gone through some Logicapp videos.
 4. KT by Shiva on access control Mechanism in salesforce.
-5. Worked on Trailhead(Data Security- Overview of Data Security; Control Access to the Org; Control Access to Objects; Control Access to Fields;)
+5. Worked on Trailhead(Data Security- Overview of Data Security; Control Access to the Org; Control Access to Objects; Control Access to Fields; 
+                                                                                     Control Access to Records)
