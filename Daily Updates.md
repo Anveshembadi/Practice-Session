@@ -216,3 +216,4 @@
                            Control Access to Records; Define Sharing Rules)
 ## 24/09/2024
 1. Worked on userstory:6661 - Nodify Accession Procedure - Updates (Update record objects; Create record objects)
+2. Created a pipeline CDT sfdx-elims.
