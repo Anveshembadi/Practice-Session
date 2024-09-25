@@ -217,3 +217,6 @@
 ## 24/09/2024
 1. Worked on userstory:6661 - Nodify Accession Procedure - Updates (Update record objects; Create record objects)
 2. Created a pipeline CDT sfdx-elims.
+## 25/09/2024
+1. KT By shiva on Salesforce pages and console view.
+2. worked on Trailhead(Build a Custom Theme Layout Component for Experience Builder Sites- Create an Experience Builder Site; Create a Custom Theme Layout Component)
