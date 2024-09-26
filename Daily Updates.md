@@ -222,3 +222,6 @@
 2. Watched videos related to azure pipeline.
 3. worked on Trailhead(Build a Custom Theme Layout Component for Experience Builder Sites- Create an Experience Builder Site; Create a Custom Theme Layout Component)
 4. Watched videos on Azure ServiceBus.
+
+## 26/08/2024
+1. Worked on Trailhead (Apex Specialist- Quiz: Credential Security)
