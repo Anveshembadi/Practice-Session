@@ -224,4 +224,4 @@
 4. Watched videos on Azure ServiceBus.
 
 ## 26/08/2024
-1. Worked on Trailhead (Apex Specialist- Quiz: Credential Security)
+1. Worked on Trailhead (Apex Specialist- Quiz: Credential Security; Automate record creation)
