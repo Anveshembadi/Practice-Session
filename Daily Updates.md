@@ -226,3 +226,4 @@
 ## 26/08/2024
 1. Worked on Trailhead (Apex Specialist- Quiz: Credential Security; Automate record creation; Synchronize Salesforce data with an external system; 
 Schedule synchronization)
+2. KT by Shiva on Servicebus (types of servicebus (Queue , Topics)& how to create them)
