@@ -229,3 +229,6 @@ Schedule synchronization)
 2. KT by Shiva on Servicebus (types of servicebus (Queue , Topics)& how to create them)
 ## 27/09/2024
 1. Worked on Trailhead (Build a Custom Theme Layout Component for Experience Builder Sites- Add a Company Logo; Create an Experience Builder Site; Create a Custom Theme Layout Component; Build a Vertical Navigation Menu; Build a Custom Search Component; Add Configuration Properties to the Theme Layout
+
+## 28/09/2024
+1. Watched videos on Azure api Managements, Azure Integration services.
