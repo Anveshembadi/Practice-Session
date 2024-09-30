@@ -10,9 +10,6 @@
 1. Learnt how to create formula fields, field dependencies, page layouts, and how to implement them. Also learnt how to import and export data using Data Loader.
 2. Worked on Java programs.
 
-## 28/07/2024
-- Sunday
-
 ## 29/07/2024
 1. Learnt about types of automations: Process Builder and Screen Flows.
 2. Worked on Java programs.
@@ -232,3 +229,9 @@ Schedule synchronization)
 
 ## 28/09/2024
 1. Watched videos on Azure api Managements, Azure Integration services.
+
+## 30/09/2024
+1.j
+2. worked on Trailhead (Get to Know Lightning Reports and Dashboards- Create Reports with the Report Builder; Filter Your Report; Format Your Report; Visualize Your Data with the Lightning Dashboard Builder
+3. Involved in explanation in how to test the userstory: 6661 by shiva.
+4. Created a report (task given by shiva)
