@@ -235,3 +235,8 @@ Schedule synchronization)
 2. worked on Trailhead (Get to Know Lightning Reports and Dashboards- Create Reports with the Report Builder; Filter Your Report; Format Your Report; Visualize Your Data with the Lightning Dashboard Builder)
 3. Involved in explanation in how to test the userstory: 6661 by shiva.
 4. Created a report (task given by shiva)
+
+## 01/09/2024
+1. Learnt on logicapps how to get connect to salesforce and get recirds from salesforece.
+2. KT by shiva on how to add reports to homepage and sharing of reports.
+3. created test records on Requisitions object and followed RameshAnna.
