@@ -240,3 +240,7 @@ Schedule synchronization)
 1. Learnt on logicapps how to get connect to salesforce and get recirds from salesforece.
 2. KT by shiva on how to add reports to homepage and sharing of reports.
 3. created test records on Requisitions object and followed RameshAnna.
+
+## 02/10/2024
+1. Worked on transfering of data from one database connection to another database connection using poweshell.
+2. Watched videos on Keyvault and Azure rolebasedAccess.
