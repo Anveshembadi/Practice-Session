@@ -244,3 +244,7 @@ Schedule synchronization)
 ## 02/10/2024
 1. Worked on transfering of data from one database connection to another database connection using poweshell.
 2. Watched videos on Keyvault and Azure rolebasedAccess.
+
+## 03/10/2024
+1. Worked on transfering of data from one database connection to another database connection using poweshell.
+2. Learnt about Azure app services.(watched videos)
