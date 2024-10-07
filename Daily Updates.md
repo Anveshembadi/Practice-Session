@@ -250,4 +250,4 @@ Schedule synchronization)
 2. Learnt about Azure app services.(watched videos)
 ## 04/10/2024
 1. Worked on transfering of data from one database connection to another database connection using Js.
-2. Followed Rameshanna on completing userstory 6671.
+2. Followed Ramesh on completing userstory 6671.
