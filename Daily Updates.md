@@ -254,3 +254,5 @@ Schedule synchronization)
 ## 07/10/2024
 1. KT by Shiva on salesforce and integration setup ( how to get clientId(consumerID) $ client_secrete(consumer Secrete) and how to generate security token to connect sf to external.)
 2. Created notes on steps how to do above procedure and how to update passwords and clientIds in azure keyvault.
+3. Practiced Apex testing.
+4. 
