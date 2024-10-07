@@ -239,7 +239,7 @@ Schedule synchronization)
 ## 01/09/2024
 1. Learnt on logicapps how to get connect to salesforce and get recirds from salesforece.
 2. KT by shiva on how to add reports to homepage and sharing of reports.
-3. created test records on Requisitions object and followed RameshAnna.
+3. created test records on Requisitions object and followed Ramesh.
 
 ## 02/10/2024
 1. Worked on transfering of data from one database connection to another database connection using poweshell.
@@ -251,3 +251,6 @@ Schedule synchronization)
 ## 04/10/2024
 1. Worked on transfering of data from one database connection to another database connection using Js.
 2. Followed Ramesh on completing userstory 6671.
+## 07/10/2024
+1. KT by Shiva on salesforce and integration setup ( how to get clientId(consumerID) $ client_secrete(consumer Secrete) and how to generate security token to connect sf to external.)
+2. Created notes on steps how to do above procedure and how to update passwords and clientIds in azure keyvault.
