@@ -256,3 +256,5 @@ Schedule synchronization)
 2. Created notes on steps how to do above procedure and how to update passwords and clientIds in azure keyvault.
 3. Practiced Apex testing.
 4. Created Test classes for apex methods in ElimsCdtUploadResultsHandler class.
+## 08/10/2024
+1. Worked on Writing SOQL queries and http services.
