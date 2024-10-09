@@ -257,4 +257,5 @@ Schedule synchronization)
 3. Practiced Apex testing.
 4. Created Test classes for apex methods in ElimsCdtUploadResultsHandler class.
 ## 08/10/2024
-1. Worked on Writing SOQL queries and http services.
+1. Explained abour the requirement by shiva.
+2. Worked on Writing SOQL queries and http services.
