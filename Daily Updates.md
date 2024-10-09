@@ -257,5 +257,9 @@ Schedule synchronization)
 3. Practiced Apex testing.
 4. Created Test classes for apex methods in ElimsCdtUploadResultsHandler class.
 ## 08/10/2024
-1. Explained abour the requirement by shiva.
+1. Explained about the requirement by shiva.
 2. Worked on Writing SOQL queries and http services.
+## 09/10/2024
+1. Created a logic app how to get accestocken from salesforce.
+2. Created a logic app to create a record in salesforce using restApi.
+   
