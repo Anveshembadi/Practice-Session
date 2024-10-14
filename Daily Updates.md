@@ -262,4 +262,6 @@ Schedule synchronization)
 ## 09/10/2024
 1. Created a logic app how to get accestocken from salesforce.
 2. Created a logic app to create a record in salesforce using restApi.
+## 10/10/2024
+1. Created CDT_Import_Results logicapp for updating requisition status.
    
