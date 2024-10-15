@@ -264,4 +264,8 @@ Schedule synchronization)
 2. Created a logic app to create a record in salesforce using restApi.
 ## 10/10/2024
 1. Created CDT_Import_Results logicapp for updating requisition status.
+## 14/10/2024
+1. Worked on Logicapp updation.(CDT_Import_Results)
+2. KT by Shiva on API Management.
+3. Prepared a document on how each component works in CDT_Import_Results.
    
