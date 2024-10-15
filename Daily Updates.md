@@ -269,6 +269,6 @@ Schedule synchronization)
 2. KT by Shiva on API Management.
 3. Prepared a document on how each component works in CDT_Import_Results.
 ## 15/10/2024
-1.Worked on Logicapp (CDT_Generate_Labels) updation.
+1. Worked on Logicapp (CDT_Generate_Labels) updation.
 2. Watched videos on API Management.
    
