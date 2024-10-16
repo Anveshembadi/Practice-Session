@@ -271,4 +271,8 @@ Schedule synchronization)
 ## 15/10/2024
 1. Worked on Logicapp (CDT_Generate_Labels) updation.
 2. Watched videos on API Management.
+## 16/10/2024
+1. Watched videos on NamedCredentials.
+2. Learnt about APIM services.
+3. Practiced Logicapp (AE_Practice_logicapp_2). 
    
