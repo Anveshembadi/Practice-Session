@@ -279,5 +279,10 @@ Schedule synchronization)
 1. Practiced apex classes and Soql.
 2. Practiced Logicapp.
 3. Worked on Writing SOQL queries and http services
+## 21/10/2024
+1. Learnt about LifeCycle Hooks in Lightning web component.
+2. How to use update Record in Lightning web component.
+3. Leart about Toast Notifications in LWC (how to create and customize to display success, error, warning, info messages.)
+4. 
  
    
