@@ -274,5 +274,9 @@ Schedule synchronization)
 ## 16/10/2024
 1. Watched videos on NamedCredentials.
 2. Learnt about APIM services.
-3. Practiced Logicapp (AE_Practice_logicapp_2). 
+3. Practiced Logicapp (AE_Practice_logicapp_2).
+## 17/10/2024
+1. Practiced apex classes and Soql.
+2. Practiced Logicapp.
+ 
    
