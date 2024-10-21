@@ -278,5 +278,6 @@ Schedule synchronization)
 ## 17/10/2024
 1. Practiced apex classes and Soql.
 2. Practiced Logicapp.
+3. Worked on Writing SOQL queries and http services
  
    
