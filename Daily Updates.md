@@ -287,5 +287,6 @@ Schedule synchronization)
 1. Learnt about use of safe Navigation Operator(?.) to avoid null pointer Exceptions.
 2. Learnt about the usage of SwitchStatemnts in salesforce.
 3. Learnt about adding images into Formula feild in salesforce.
+4. Working on the Task given by Shiva (Covering topics Logicapps, sfSOQL, APIM, Api Connections)
  
    
