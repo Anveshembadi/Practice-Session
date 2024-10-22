@@ -283,6 +283,9 @@ Schedule synchronization)
 1. Learnt about LifeCycle Hooks in Lightning web component.
 2. How to use create,update, Delete Record in Lightning web component.
 3. Leart about Toast Notifications in LWC (how to create and customize to display success, error, warning, info messages.)
-4. 
+## 22/10/2024
+1. Learnt about use of safe Navigation Operator(?.) to avoid null pointer Exceptions.
+2. Learnt about the usage of SwitchStatemnts in salesforce.
+3. Learnt about adding images into Formula feild in salesforce.
  
    
