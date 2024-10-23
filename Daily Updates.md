@@ -290,6 +290,6 @@ Schedule synchronization)
 4. Working on the Task given by Shiva (Covering topics Logicapps, sfSOQL, APIM, Api Connections)
 ## 23/10/2024
 1. Working on the Task given by Shiva on logicapps and api management.
-2. 
+2. KT by Praveen On how to test NodifyCDt  requisition and to generating TRR. 
  
    
