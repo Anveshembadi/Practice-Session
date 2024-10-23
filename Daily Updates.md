@@ -288,5 +288,8 @@ Schedule synchronization)
 2. Learnt about the usage of SwitchStatemnts in salesforce.
 3. Learnt about adding images into Formula feild in salesforce.
 4. Working on the Task given by Shiva (Covering topics Logicapps, sfSOQL, APIM, Api Connections)
+## 23/10/2024
+1. Working on the Task given by Shiva on logicapps and apimanagement.
+2. 
  
    
