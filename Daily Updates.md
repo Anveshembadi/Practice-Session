@@ -297,5 +297,9 @@ Schedule synchronization)
 ## 26/10/2024
 1. Gone through OVERVIEW OF COMMON LOGIC APPS sent by shiva.
 2. Went through the manual case creation and went through creation of case.
+## 28/10/2024
+1. Worked on testing of manual case creation.
+2. Learnt about to retrieve sf customer key and secrete.
+3. Worked on logicapp to call ing of  restapi from salesforce by geneating accestoken.
  
    
