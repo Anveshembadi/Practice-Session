@@ -294,7 +294,7 @@ Schedule synchronization)
 ## 24/10/2024
 1. Worked on salesforce creating newrecords and RESTAPI.
 2. Creating Logicapp for calling the restapi from Salesforce.
-## 28/10/2024
+## 26/10/2024
 1. Gone through OVERVIEW OF COMMON LOGIC APPS sent by shiva.
 2. Went through the manual case creation and went through creation of case.
  
