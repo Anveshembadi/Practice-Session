@@ -300,7 +300,7 @@ Schedule synchronization)
 ## 28/10/2024
 1. Worked on testing of manual case creation.
 2. Learnt about to retrieve sf customer key and secrete.
-3. Worked on logicapp to call ing of  restapi from salesforce by geneating accestoken.
+3. Worked on logicapp to calling of  restapi from salesforce by geneating accestoken.
 ## 29/10/2024
 1. Learnt how to merge Accounts, Contacts aand other records using apex methods( merge statement and Database.merge() methods).
  
