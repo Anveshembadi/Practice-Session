@@ -305,5 +305,8 @@ Schedule synchronization)
 1. Learnt how to merge Accounts, Contacts aand other records using apex methods( merge statement and Database.merge() methods).
 2. Went through the changes in modify a set during iteration as per winter'25 release.
 3. Worked on connectinon of  logicapps with APIM.
+## 30/10/2024
+1. C.reated Accession cdt records (Praveen).
+2. Worked on Creating flow for updating requition result.
  
    
