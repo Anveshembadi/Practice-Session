@@ -309,7 +309,8 @@ Schedule synchronization)
 1. Created Accession cdt records (Praveen).
 2. Worked on Creating flow for updating requition result.
 ## 31/10/2024
-1. Worked on UserStory 6740 (Write a wrapper to listen a port and accept the request to run the ALG001. It should respond the results in xml format.)
+1. Worked on UserStory 6740 (Write a wrapper to listen a port and accept the request to run the ALG001.
+    It should respond the results in xml format.)
 2. Leearnt how to create a serviceBus and run them and Created a new servicebus in Queue to read message. 
  
    
