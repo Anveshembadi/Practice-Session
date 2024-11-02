@@ -315,6 +315,6 @@ Schedule synchronization)
 ## 02/11/2024
 1. Went through some existing logicapps ("CDT_Generate_Labels" , upload-files (om-integration-dev/upload-files))
     to know how they are connected with other resources.
-3. Went through research if how to connect get store in keyvaults and creating a new azure virtualMachine.
+3. Went through research of how to connect get store in keyvaults and creating a new azure virtualMachine.
  
    
