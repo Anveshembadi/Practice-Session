@@ -311,10 +311,13 @@ Schedule synchronization)
 ## 31/10/2024
 1. Worked on UserStory 6740 (Write a wrapper to listen a port and accept the request to run the ALG001.
     It should respond the results in xml format.)
-2. Leearnt how to create a serviceBus and run them and Created a new servicebus in Queue to read message.
+2. Learnt how to create a serviceBus and run them and Created a new servicebus in Queue to read message.
 ## 02/11/2024
 1. Went through some existing logicapps ("CDT_Generate_Labels" , upload-files (om-integration-dev/upload-files))
     to know how they are connected with other resources.
 3. Went through research of how to connect get store in keyvaults and creating a new azure virtualMachine.
- 
+## 04/11/2024
+1. Worked on Lightning web component DataTable and apex class.
+2. Worked on UserStory 6740 (Write a wrapper to listen a port and accept the request inthe xml format and take datalocation to run the ALG001.
+    It should respond the results in xml format.)
    
