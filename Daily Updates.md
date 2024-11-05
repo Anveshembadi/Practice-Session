@@ -321,4 +321,7 @@ Schedule synchronization)
 2. Worked on UserStory 6740 (Write a wrapper to listen a port and accept the request inthe xml format and take datalocation to run the ALG001.
     It should respond the results in xml format.)
 3. Worked on how to connect logicapps with sharepoint.
+## 05/11/2024
+1. Worked on creating Procedurelist Accessions cdt.
+2. 
    
