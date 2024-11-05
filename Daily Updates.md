@@ -323,5 +323,6 @@ Schedule synchronization)
 3. Worked on how to connect logicapps with sharepoint.
 ## 05/11/2024
 1. Worked on creating Procedurelist Accessions cdt.
-2. 
+2. Worked on Lightning web component DataTable and apex class.
+3. KT by Shiva on connections between different Azure services.
    
