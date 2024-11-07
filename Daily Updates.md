@@ -325,7 +325,10 @@ Schedule synchronization)
 1. Worked on creating Procedurelist Accessions cdt.
 2. Worked on Lightning web component DataTable and apex class.
 3. KT by Shiva on connections between different Azure services.
-## 0611/2024
+## 06/11/2024
 1. KT by Ramesh on User story :6745 (Sapio LIMS Update - GeneStrat TRR)
 2. Hands on practice on Logicapps and keyvaults and managed Identities.
+## 07/11/2024
+1. Worked on salesforce IQLung feilds accessing.
+2. Worked on connection with servicebus and logicapps.
    
