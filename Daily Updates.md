@@ -337,4 +337,5 @@ Schedule synchronization)
 ## 11/11/2024
 1. Worked on userrStory :6745 Generate TRR for Israel Country.
 2. Hands on Practice of connection servicebBus of with salesforce when a new case record is created.
+3. went through Apex mapping in salesforce.
    
