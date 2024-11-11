@@ -331,4 +331,7 @@ Schedule synchronization)
 ## 07/11/2024
 1. Worked on salesforce IQLung feilds accessing.
 2. Worked on connection with servicebus and logicapps.
+## 08/11/2024
+1. Worked on salesforce IQLung feilds accessing.
+2. Worked on User story :6745 (Sapio LIMS Update - GeneStrat TRR).
    
