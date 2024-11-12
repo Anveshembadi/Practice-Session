@@ -339,5 +339,9 @@ Schedule synchronization)
 2. Hands on Practice of connection servicebBus of with salesforce when a new case record is created.
 3. Gone through how to use Tortoise git.
 4. went through Apex mapping in salesforce.
+## 12/11/2024
+1. Gone through Philips_Get_Orders logicapp and its connections.
+2. Wrote the steps of in Philips_Get_Orders and created AE_PhilipsGetOrders_Practice logicapp.
+
 
    
