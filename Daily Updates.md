@@ -342,6 +342,9 @@ Schedule synchronization)
 ## 12/11/2024
 1. Gone through Philips_Get_Orders logicapp and its connections.
 2. Wrote the steps of in Philips_Get_Orders and created AE_PhilipsGetOrders_Practice logicapp.
+3. Gone through Redox_Upload_Results logicapp and its connections.
+4. Wrote the steps of in Redox_Upload_Results logicapp and created AE_Redox_Upload_Results logicapp Practice logicapp.
+5. Gone through CIF_OM_Pull_Deliverables logicapp and its connections.Wrote the steps of in CIF_OM_Pull_Deliverables logicapp.
 
 
    
