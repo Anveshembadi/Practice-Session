@@ -345,6 +345,10 @@ Schedule synchronization)
 3. Gone through Redox_Upload_Results logicapp and its connections.
 4. Wrote the steps of in Redox_Upload_Results logicapp and created AE_Redox_Upload_Results logicapp Practice logicapp.
 5. Gone through CIF_OM_Pull_Deliverables logicapp and its connections.Wrote the steps of in CIF_OM_Pull_Deliverables logicapp.
+## 13/11/2024
+1. Worked user story :6751.
+2. Kt by shiva on Logicapp and servicebus modifications.
+3. Created a logicapp that calls a sublogicapp(accesstoken)and calls resapi and sends message to servicebus.
 
 
    
