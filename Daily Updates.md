@@ -349,6 +349,9 @@ Schedule synchronization)
 1. Worked user story :6751.
 2. Kt by shiva on Logicapp and servicebus modifications.
 3. Created a logicapp that calls a sublogicapp(accesstoken)and calls resapi and sends message to servicebus.
+## 14/11/2024
+1. Worked on salesforceToBrew connection to create cases in db.
+2. Worked on Logicapps of sending messages to sharepoint and reading messages from it and updating the status.
 
 
    
