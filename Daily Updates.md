@@ -352,6 +352,10 @@ Schedule synchronization)
 ## 14/11/2024
 1. Worked on salesforceToBrew connection to create cases in db.
 2. Worked on Logicapps of sending messages to sharepoint and reading messages from it and updating the status.
+## 18/11/2024
+1. Worked on Logicapp of updating salesforce record taking message from serviceBus.
+2. Went through Spesana Projects logicapps.
+3. Created a logicapp of AE_CDT_Generate_Labels.
 
 
    
