@@ -356,6 +356,11 @@ Schedule synchronization)
 1. Worked on Logicapp of updating salesforce record taking message from serviceBus.
 2. Went through Spesana Projects logicapps.
 3. Created a logicapp of AE_CDT_Generate_Labels.
+## 19/11/2024
+1. Worked creating Document of Design paterns.
+2. Worked on Creating Logicapp and Rectified errors in created logicapp.
+3. Went through Spesana project Logicapps.
+4. Doubt Clerance session with Shiva.
 
 
    
