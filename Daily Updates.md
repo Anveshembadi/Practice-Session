@@ -361,6 +361,12 @@ Schedule synchronization)
 2. Worked on Creating Logicapp and Rectified errors in created logicapp.
 3. Went through Spesana project Logicapps.
 4. Doubt Clerance session with Shiva.
+## 20/11/2024
+1. KT by Shiva on RedoxTransaltions.
+1. Worked on User Story : 6765 (Redox Translations).
+2. Went through TransalationSets.
+3. Went through OM_Extract_TRF_Fetch_Documents Logicapp.
+4. 
 
 
    
