@@ -366,7 +366,6 @@ Schedule synchronization)
 1. Worked on User Story : 6765 (Redox Translations).
 2. Went through TransalationSets.
 3. Went through OM_Extract_TRF_Fetch_Documents Logicapp.
-4. 
 
 
    
