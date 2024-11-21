@@ -363,9 +363,12 @@ Schedule synchronization)
 4. Doubt Clerance session with Shiva.
 ## 20/11/2024
 1. KT by Shiva on RedoxTransaltions.
-1. Worked on User Story : 6765 (Redox Translations).
-2. Went through TransalationSets.
-3. Went through OM_Extract_TRF_Fetch_Documents Logicapp.
+2. Worked on User Story : 6765 (Redox Translations).
+3. Went through TransalationSets.
+## 21/11/2024
+1. Worked on Process Request Testings and prepared XLSheet.
+2. Went through OM_Extract_TRF_Fetch_Documents Logicapp.
+   
 
 
    
