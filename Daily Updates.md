@@ -366,9 +366,8 @@ Schedule synchronization)
 2. Worked on User Story : 6765 (Redox Translations).
 3. Went through TransalationSets.
 ## 21/11/2024
-1. Worked on Process Request Testings and prepared XLSheet.
+1. Worked on Process Request Testings and prepared Excel Sheet.
 2. Went through OM_Extract_TRF_Fetch_Documents Logicapp.
-   
-
-
-   
+## 22/11/2024
+1. Worked on testing of Cases And prepared Excel Sheet.
+2. Went through Redox TransalationSets doc.
