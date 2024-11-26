@@ -371,3 +371,9 @@ Schedule synchronization)
 ## 22/11/2024
 1. Worked on testing of Cases And prepared Excel Sheet.
 2. Went through Redox TransalationSets doc.
+## 25/11/2024
+1. Worked on testing of Cases And prepared Excel Sheet.
+2. went through how to list deployments done in salesforce.
+## 26/11/2024
+1. Worked on Testing of cases and went through finding errors.
+   
