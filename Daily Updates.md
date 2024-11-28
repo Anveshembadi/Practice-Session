@@ -374,6 +374,11 @@ Schedule synchronization)
 ## 25/11/2024
 1. Worked on testing of Cases And prepared Excel Sheet.
 2. went through how to list deployments done in salesforce.
-## 26/11/2024
+## 27/11/2024
 1. Worked on Testing of cases and went through finding errors.
+2. Went through Working on Azure functionapp.
+## 28/11/2024
+1. Worked on Testing of cases and went through finding errors.
+2. Went through AzureStorage Services and creations.
+3. Went through Working on Azure functionapp creations and connection of functionapp with servicebus to trigger.
    
