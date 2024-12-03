@@ -381,4 +381,11 @@ Schedule synchronization)
 1. Worked on Testing of cases and went through finding errors.
 2. Went through AzureStorage Services and creations.
 3. Went through Working on Azure functionapp creations and connection of functionapp with servicebus to trigger.
+## 29/11/2024
+1. Worked on Testing of cases and went through finding errors.
+2. Went Through Practicing of functionapp.
+3. Doubt clearance with shiva.
+## 02/12/2024
+1. Worked on Testing of cases and went through finding errors.
+2. Went through Solving of errors with the help of  Ramesh.
    
