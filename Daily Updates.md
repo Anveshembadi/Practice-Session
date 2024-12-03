@@ -389,6 +389,6 @@ Schedule synchronization)
 1. Worked on Testing of cases and went through finding errors.
 2. Went through Solving of errors with the help of  Ramesh.
 ## 03/12/2024
-1. 1. Worked on Testing of cases and went through finding errors.
+1. Worked on Testing of cases and went through finding errors.
 
    
