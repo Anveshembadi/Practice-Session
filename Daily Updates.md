@@ -393,5 +393,7 @@ Schedule synchronization)
 ## 04/12/2024
 1. Worked on Testing of cases and went through finding errors.
 2. Went through Solving of errors with the help of  Ramesh.
-
+## 06/12/2024 
+1. Worked on Testing of cases and went through finding errors.
+2. Went through testing of Account patien and Physician sections in Cases.
    
