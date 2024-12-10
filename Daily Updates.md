@@ -399,4 +399,8 @@ Schedule synchronization)
 ## 09/12/2024
 1. Worked in userStory 6787 : Map Patient Identifier "MR" or "MRN" to Salesforce Patient Medical Record # Field.
 2. Testing and deploying of code using release pipelines.
+## 10/12/2024 
+1. Went through Release updaetes in salesforce.
+2. KT by shiva on Azure Resources Basics.
+3. Went through CIF_OM_Extract_TRF_Fetch_Documents, OM_Extract_TRF_Process_Documents, OM_Extract_TRF_Process_Document.
    
