@@ -396,4 +396,7 @@ Schedule synchronization)
 ## 06/12/2024 
 1. Worked on Testing of cases and went through finding errors.
 2. Went through testing of Account patien and Physician sections in Cases.
+## 09/12/2024
+1. Worked in userStory 6787 : Map Patient Identifier "MR" or "MRN" to Salesforce Patient Medical Record # Field.
+2. Testing and deploying of code using release pipelines.
    
