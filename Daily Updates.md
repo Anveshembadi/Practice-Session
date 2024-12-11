@@ -403,4 +403,9 @@ Schedule synchronization)
 1. Went through Release updaetes in salesforce.
 2. KT by shiva on Azure Resources Basics.
 3. Went through CIF_OM_Extract_TRF_Fetch_Documents, OM_Extract_TRF_Process_Documents, OM_Extract_TRF_Process_Document.
+## 11/12/2024
+1. Worked on User Story 6788: Add "Race" to JSON 'patient' Object.
+2. Went through salesforce release updates.
+3. KT by Shiva on Logicapps and KeyVaults.
+   
    
