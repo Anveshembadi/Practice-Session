@@ -407,5 +407,9 @@ Schedule synchronization)
 1. Worked on User Story 6788: Add "Race" to JSON 'patient' Object.
 2. Went through salesforce release updates.
 3. KT by Shiva on Logicapps and KeyVaults.
+## 13/12/2024
+1. Went through recorded video on Deployments.
+2. Doubt clearance session with shiva.
+3. KT by shiva on Projects Overview.
    
    
