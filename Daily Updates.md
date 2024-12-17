@@ -411,5 +411,11 @@ Schedule synchronization)
 1. Went through recorded video on Deployments.
 2. Doubt clearance session with shiva.
 3. KT by shiva on Projects Overview.
+## 16/12/2024
+1. Worked on how to add parameter content in deploying status.
+2. KT by shiva on APIManagements, Redox ApiManagements.
+## 17/12/2024
+1. Went thorugh UserStory : 6799 Labels - CDT and XL2 Label Review and the Save Button.
+2. KT by shiva on Git Commands, Redox Results(JWT Token),overview of buildPipelines.
    
    
