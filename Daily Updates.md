@@ -417,5 +417,10 @@ Schedule synchronization)
 ## 17/12/2024
 1. Went thorugh UserStory : 6799 Labels - CDT and XL2 Label Review and the Save Button.
 2. KT by shiva on Git Commands, Redox Results(JWT Token),overview of buildPipelines.
+## 20/12/2024
+1. Created a flow Submission update Order status_01 flow.
+1. KT by shiva on Azure API Deployment from Pipeline.
+2. UserStory :6647 : Remove Address on all Email Templates.
+3. UserStory : 6777 : CTI - Hide Lab Received Date.
    
    
